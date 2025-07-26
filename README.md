@@ -1,50 +1,10 @@
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas-Guia-de-aprendizaje</title>
-<meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas-Guia-de-aprendizaje" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://medsantiago.github.io/Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas-Guia-de-aprendizaje/" />
-<meta property="og:url" content="https://medsantiago.github.io/Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas-Guia-de-aprendizaje/" />
-<meta property="og:site_name" content="Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas-Guia-de-aprendizaje" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas-Guia-de-aprendizaje" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas-Guia-de-aprendizaje","name":"Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas-Guia-de-aprendizaje","url":"https://medsantiago.github.io/Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas-Guia-de-aprendizaje/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas-Guia-de-aprendizaje/assets/css/style.css?v=8d139607de80ca9f4621d8a3791884e815d9561f">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas-Guia-de-aprendizaje/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://medsantiago.github.io/Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas-Guia-de-aprendizaje/">Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas-Guia-de-aprendizaje</a></h1>
-      
-
-      
+<!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Saber Clínico</title>
-  <link rel="icon" type="image/png" href="https://png.pngtree.com/png-clipart/20250103/original/pngtree-vector-medical-symbol-of-healthcare-png-image_18976324.png" />
+  <link rel="icon" type="image/png" href="https://png.pngtree.com/png-clipart/20250103/original/pngtree-vector-medical-symbol-of-healthcare-png-image_18976324.png">
   <style>
     * {
       box-sizing: border-box;
@@ -116,24 +76,16 @@
 <body>
   <div class="container">
     <div class="banner">
-      <h1>Guía de aprendizaje - Generalidades Anatomicas</h1>
+      <h1>Guía de aprendizaje - Columna Vertebral y Dorso</h1>
       <div class="banner-buttons">
-        <a href="https://docs.google.com/uc?export=download&amp;id=1ZGrPMCnQDfwaQnEbV9owpJ8-aoDT5IzI" target="_blank" download="">Descargar Presentación</a>
+        <a href="https://docs.google.com/uc?export=download&id=1ZGrPMCnQDfwaQnEbV9owpJ8-aoDT5IzI" target="_blank" download>Descargar Presentación</a>
         <a href="https://docs.google.com/document/d/1ZGrPMCnQDfwaQnEbV9owpJ8-aoDT5IzI/edit?usp=drive_link&ouid=109793059200003333223&rtpof=true&sd=true" target="_blank">Visualizar Documento</a>
       </div>
     </div>
 
     <div class="main-image">
-      <img src="blob:https://co.pinterest.com/6fbce618-b361-451f-92d1-4573943faf1d" />
+      <img src="https://i.pinimg.com/736x/49/a0/f4/49a0f455bd4885171379cc83d03f32c5.jpg">
     </div>
   </div>
 </body>
-</html>
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
 </html>
