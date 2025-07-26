@@ -124,7 +124,7 @@
     </div>
 
     <div class="main-image">
-      <img src="https://i.pinimg.com/736x/4f/04/a4/4f04a48b189d53ed8d0eaf1d35cd77f9.jpg" />
+      <img src="blob:https://co.pinterest.com/6fbce618-b361-451f-92d1-4573943faf1d" />
     </div>
   </div>
 </body>
