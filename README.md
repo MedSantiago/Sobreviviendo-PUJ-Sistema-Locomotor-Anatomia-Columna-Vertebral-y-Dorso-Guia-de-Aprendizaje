@@ -118,8 +118,8 @@
     <div class="banner">
       <h1>Guía de aprendizaje - Generalidades Anatomicas</h1>
       <div class="banner-buttons">
-        <a href="https://docs.google.com/uc?export=download&amp;id=1M_kjB_86lDjrfPL-2C6Y8tApXR0um2Q4" target="_blank" download="">Descargar Presentación</a>
-        <a href="https://docs.google.com/document/d/1M_kjB_86lDjrfPL-2C6Y8tApXR0um2Q4/edit?usp=drive_link&amp;ouid=109793059200003333223&amp;rtpof=true&amp;sd=true" target="_blank">Visualizar Documento</a>
+        <a href="https://docs.google.com/uc?export=download&amp;id=1ZGrPMCnQDfwaQnEbV9owpJ8-aoDT5IzI" target="_blank" download="">Descargar Presentación</a>
+        <a href="https://docs.google.com/document/d/1ZGrPMCnQDfwaQnEbV9owpJ8-aoDT5IzI/edit?usp=drive_link&ouid=109793059200003333223&rtpof=true&sd=true" target="_blank">Visualizar Documento</a>
       </div>
     </div>
 
